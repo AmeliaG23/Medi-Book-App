@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "url": "http://192.168.1.121:8081/assets/blakeneyDocs.png",
+    "title": "Blakeney Surgery",
+    "description": "An image of Blakeney Doctor's Surgery."
+  },
+  {
+    "id": 2,
+    "url": "http://192.168.1.121:8081/assets/blakeneyDocs2.jpeg",
+    "title": "Side View of Blakeney Surgery",
+    "description": "Another side image of Blakeney Doctor's Surgery."
+  },
+  {
+    "id": 3,
+    "url": "http://192.168.1.121:8081/assets/doctorsOffice.png",
+    "title": "Doctors",
+    "description": "An image representing a medical practice with various healthcare elements."
+  },
+  {
+    "id": 4,
+    "url": "http://192.168.1.121:8081/assets/doctors.png",
+    "title": "Medical Practice",
+    "description": "  A photo of a group of doctors working together in a medical setting."
+  }
+]
